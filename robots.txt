@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-outfit-custom-ta-26579.pages.dev/sitemap.xml
