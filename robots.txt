@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://the-outfit-custom-ta-26579.pages.dev/sitemap.xml
+Sitemap: https://theoutfitcustomtailor.github.io/the-outfit-custom-ta-26579/sitemap.xml
