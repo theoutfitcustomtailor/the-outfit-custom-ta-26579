@@ -2,7 +2,7 @@
 
 Bespoke tailoring shop on Bang Tao Beach in Choeng Thale, Phuket. Founded in 2010 by Kubir Dungana. Everything is cut on the premises.
 
-- **Address:** 334, 42 Bang Tao Beach, Choeng Thale, Phuket 83110, Thailand
+- **Address:** 334/42 Bang Tao Beach, Choeng Thale, Phuket 83110, Thailand
 - **Phone / WhatsApp:** +66 81 444 6362
 - **Email:** hello@theoutfitcustomtailor.com
 - **Website:** https://theoutfitcustomtailor.com
